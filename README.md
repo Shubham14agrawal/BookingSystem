@@ -45,6 +45,7 @@ BookingService.sln
 └── BookingService.Tests                (Unit Tests)
     ├
     └── CreateBookingCommandHandlerTests.cs
+    
    ![image](https://github.com/user-attachments/assets/2f578d4e-4544-4927-9cde-45cc29805137)
  
 - Built using an N-Tier architecture that separates the Domain, Application, Infrastructure, API, and gRPC layers.
@@ -101,6 +102,8 @@ InventoryService.sln
     ├── InventoryDbContext.cs
     ├── InventoryRepository.cs            
     └── MemberRepository.cs
+
+    
 ![image](https://github.com/user-attachments/assets/06f93a0d-30f8-4492-8ea4-19427111bb35)
 
 - Organized into three layers: Domain, Application, and Infrastructure.
@@ -131,6 +134,7 @@ CsvService.sln
     ├── appsettings.Development.json
     ├── appsettings.json
     └── Program.cs                   // Configures ASP.NET Core, DI, gRPC client, etc.
+    
 ![image](https://github.com/user-attachments/assets/7671b9f1-c5a6-48bc-a1c1-fb9eb8ffa269)
 
 - An independent ASP.NET Core Web API project dedicated to reading CSV files.
