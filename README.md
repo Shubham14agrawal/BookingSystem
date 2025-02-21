@@ -1,4 +1,5 @@
-**BookingService**
+# BookingService
+
 BookingService.sln
 │
 ├── BookingService.Api                  (ASP.NET Core Web API)
@@ -53,7 +54,7 @@ BookingService.sln
 - Integrates with InventoryService via gRPC using a central client wrapper (IInventoryServiceClient) to perform inventory and member data operations.
 - Unit tests are implemented using MSTest.
 
-**InventoryService**
+# InventoryService
 
 InventoryService.sln
 │
@@ -109,7 +110,7 @@ InventoryService.sln
 - Exposes gRPC endpoints defined in a proto file (inventory.proto) for operations like checking availability, decrementing/increasing inventory, bulk updating inventory, and bulk adding/updating members.
 - The gRPC contracts are designed to be shared, allowing easy integration with other services.
 
-**CsvService**
+# CsvService
 CsvService.sln
 └── CsvService.Api (ASP.NET Core Web API)
     ├── Connected Services
