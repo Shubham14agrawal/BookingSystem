@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Booking System\\InventoryService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|d:\\booking system\\inventoryservice\\inventoryservice.api\\servicehandler\\inventoryservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|solutionrelative:inventoryservice.api\\servicehandler\\inventoryservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6531BA-BA51-4323-A762-3F5584B4B15A}|InventoryService.Application\\InventoryService.Application.csproj|d:\\booking system\\inventoryservice\\inventoryservice.application\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6531BA-BA51-4323-A762-3F5584B4B15A}|InventoryService.Application\\InventoryService.Application.csproj|solutionrelative:inventoryservice.application\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6531BA-BA51-4323-A762-3F5584B4B15A}|InventoryService.Application\\InventoryService.Application.csproj|d:\\booking system\\inventoryservice\\inventoryservice.application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6531BA-BA51-4323-A762-3F5584B4B15A}|InventoryService.Application\\InventoryService.Application.csproj|solutionrelative:inventoryservice.application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9AE05-C8A3-4003-A5FF-0E9466CEDB55}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|d:\\booking system\\inventoryservice\\inventoryservice.infrastructure\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9AE05-C8A3-4003-A5FF-0E9466CEDB55}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|solutionrelative:inventoryservice.infrastructure\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9AE05-C8A3-4003-A5FF-0E9466CEDB55}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|d:\\booking system\\inventoryservice\\inventoryservice.infrastructure\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9AE05-C8A3-4003-A5FF-0E9466CEDB55}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|solutionrelative:inventoryservice.infrastructure\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|d:\\booking system\\inventoryservice\\inventoryservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|solutionrelative:inventoryservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|d:\\booking system\\inventoryservice\\inventoryservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|solutionrelative:inventoryservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6531BA-BA51-4323-A762-3F5584B4B15A}|InventoryService.Application\\InventoryService.Application.csproj|d:\\booking system\\inventoryservice\\inventoryservice.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6531BA-BA51-4323-A762-3F5584B4B15A}|InventoryService.Application\\InventoryService.Application.csproj|solutionrelative:inventoryservice.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|d:\\booking system\\inventoryservice\\inventoryservice.api\\protos\\inventory.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|solutionrelative:inventoryservice.api\\protos\\inventory.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|d:\\booking system\\inventoryservice\\inventoryservice.api\\mapping\\mappingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFBC1F3-1E09-41AF-AEFA-4566929206A8}|InventoryService.Api\\InventoryService.Api.csproj|solutionrelative:inventoryservice.api\\mapping\\mappingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Infrastructure\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "InventoryService.Infrastructure\\MemberRepository.cs",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Infrastructure\\MemberRepository.cs",
+              "RelativeToolTip": "InventoryService.Infrastructure\\MemberRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:19:10.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryServiceHandler.cs",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Api\\ServiceHandler\\InventoryServiceHandler.cs",
+              "RelativeDocumentMoniker": "InventoryService.Api\\ServiceHandler\\InventoryServiceHandler.cs",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Api\\ServiceHandler\\InventoryServiceHandler.cs",
+              "RelativeToolTip": "InventoryService.Api\\ServiceHandler\\InventoryServiceHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:17:03.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Application\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "InventoryService.Application\\Services\\InventoryService.cs",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Application\\Services\\InventoryService.cs",
+              "RelativeToolTip": "InventoryService.Application\\Services\\InventoryService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:56:12.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryService.Api\\Program.cs",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Api\\Program.cs",
+              "RelativeToolTip": "InventoryService.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:44:47.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryService.Api\\appsettings.json",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Api\\appsettings.json",
+              "RelativeToolTip": "InventoryService.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T16:22:49.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Infrastructure\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "InventoryService.Infrastructure\\InventoryRepository.cs",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Infrastructure\\InventoryRepository.cs",
+              "RelativeToolTip": "InventoryService.Infrastructure\\InventoryRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:19:11.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Application\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "InventoryService.Application\\Services\\MemberService.cs",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Application\\Services\\MemberService.cs",
+              "RelativeToolTip": "InventoryService.Application\\Services\\MemberService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAjwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:19:20.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "inventory.proto",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Api\\Protos\\inventory.proto",
+              "RelativeDocumentMoniker": "InventoryService.Api\\Protos\\inventory.proto",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Api\\Protos\\inventory.proto",
+              "RelativeToolTip": "InventoryService.Api\\Protos\\inventory.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-02-20T16:18:20.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingDTO.cs",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Api\\Mapping\\MappingDTO.cs",
+              "RelativeDocumentMoniker": "InventoryService.Api\\Mapping\\MappingDTO.cs",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Api\\Mapping\\MappingDTO.cs",
+              "RelativeToolTip": "InventoryService.Api\\Mapping\\MappingDTO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:13:59.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Booking System\\InventoryService\\InventoryService.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "InventoryService.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Booking System\\InventoryService\\InventoryService.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "InventoryService.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:13:57.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

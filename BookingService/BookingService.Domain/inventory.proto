@@ -1,0 +1,65 @@
+syntax = "proto3";
+
+option csharp_namespace = "InventoryService.Protos";
+
+service Inventory {
+  rpc IsInventoryAvailable (InventoryRequest) returns (InventoryResponse);
+  rpc DecrementInventory (InventoryRequest) returns (InventoryResponse);
+  rpc IncreaseInventory (IncreaseInventoryRequest) returns (InventoryResponse);
+  rpc UpdateInventoryBulk (BulkInventoryRequest) returns (BulkInventoryResponse);
+  rpc BulkAddOrUpdateMembers (BulkMemberRequest) returns (BulkMemberResponse);
+}
+
+message InventoryRequest {
+  int32 inventoryItemId = 1;
+}
+
+message IncreaseInventoryRequest {
+  int32 inventoryItemId = 1;
+  int32 quantity = 2;
+}
+
+message InventoryResponse {
+  bool success = 1;
+}
+
+message BulkInventoryRequest {
+  repeated InventoryItem updates = 1;
+}
+
+message InventoryItem {
+  int32 id = 1;
+  string title = 2;
+  string description = 3;
+  int32 remaining_count = 4;
+  string expiration_date = 5;
+}
+
+message BulkInventoryResponse {
+  repeated InventoryUpdateResult results = 1;
+}
+
+message InventoryUpdateResult {
+  int32 inventoryItemId = 1;
+  bool success = 2;
+}
+
+message BulkMemberRequest {
+  repeated Member members = 1;
+}
+
+message Member {
+  int32 id = 1;
+  string name = 2;
+  string surname = 3;
+  string date_joined = 4;
+}
+
+message BulkMemberResponse {
+  repeated MemberUpdateResult results = 1;
+}
+
+message MemberUpdateResult {
+  int32 memberId = 1;
+  bool success = 2;
+}

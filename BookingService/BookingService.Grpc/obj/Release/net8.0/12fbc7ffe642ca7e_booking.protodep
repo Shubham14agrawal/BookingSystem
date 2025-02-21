@@ -1,0 +1,2 @@
+obj\Release\net8.0\Protos/Booking.cs \
+obj\Release\net8.0\Protos/BookingGrpc.cs: Protos/booking.proto

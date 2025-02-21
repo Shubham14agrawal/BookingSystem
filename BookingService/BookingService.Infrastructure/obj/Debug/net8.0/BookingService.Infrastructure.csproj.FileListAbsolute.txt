@@ -1,0 +1,17 @@
+D:\Booking System\BookingService\BookingService.Infrastructure\bin\Debug\net8.0\BookingService.Infrastructure.deps.json
+D:\Booking System\BookingService\BookingService.Infrastructure\bin\Debug\net8.0\BookingService.Infrastructure.dll
+D:\Booking System\BookingService\BookingService.Infrastructure\bin\Debug\net8.0\BookingService.Infrastructure.pdb
+D:\Booking System\BookingService\BookingService.Infrastructure\bin\Debug\net8.0\BookingService.Application.dll
+D:\Booking System\BookingService\BookingService.Infrastructure\bin\Debug\net8.0\BookingService.Domain.dll
+D:\Booking System\BookingService\BookingService.Infrastructure\bin\Debug\net8.0\BookingService.Application.pdb
+D:\Booking System\BookingService\BookingService.Infrastructure\bin\Debug\net8.0\BookingService.Domain.pdb
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\BookingService.Infrastructure.csproj.AssemblyReference.cache
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\BookingService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\BookingService.Infrastructure.AssemblyInfoInputs.cache
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\BookingService.Infrastructure.AssemblyInfo.cs
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\BookingService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\BookingS.96C45992.Up2Date
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\BookingService.Infrastructure.dll
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\refint\BookingService.Infrastructure.dll
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\BookingService.Infrastructure.pdb
+D:\Booking System\BookingService\BookingService.Infrastructure\obj\Debug\net8.0\ref\BookingService.Infrastructure.dll

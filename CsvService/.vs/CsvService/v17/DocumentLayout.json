@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Booking System\\CsvService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\services\\inventoryclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\services\\inventoryclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\services\\csvmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\services\\csvmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\controllers\\csvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\controllers\\csvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\services\\csvparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\services\\csvparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\models\\inventoryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\models\\inventoryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\csvservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\csvservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|d:\\booking system\\csvservice\\csvservice.api\\protos\\inventory.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F0A6B6D2-C3C2-4312-9D4E-D16B5C7B20E2}|CsvService.Api\\CsvService.Api.csproj|solutionrelative:csvservice.api\\protos\\inventory.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryRecord.cs",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\Models\\InventoryRecord.cs",
+              "RelativeDocumentMoniker": "CsvService.Api\\Models\\InventoryRecord.cs",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\Models\\InventoryRecord.cs",
+              "RelativeToolTip": "CsvService.Api\\Models\\InventoryRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:43:11.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CsvService.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CsvService.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T19:48:21.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CsvService.Api\\appsettings.json",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\appsettings.json",
+              "RelativeToolTip": "CsvService.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T19:47:25.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryClientService.cs",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\Services\\InventoryClientService.cs",
+              "RelativeDocumentMoniker": "CsvService.Api\\Services\\InventoryClientService.cs",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\Services\\InventoryClientService.cs",
+              "RelativeToolTip": "CsvService.Api\\Services\\InventoryClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:44:40.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvManager.cs",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\Services\\CsvManager.cs",
+              "RelativeDocumentMoniker": "CsvService.Api\\Services\\CsvManager.cs",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\Services\\CsvManager.cs",
+              "RelativeToolTip": "CsvService.Api\\Services\\CsvManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:29:15.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvParserService.cs",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\Services\\CsvParserService.cs",
+              "RelativeDocumentMoniker": "CsvService.Api\\Services\\CsvParserService.cs",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\Services\\CsvParserService.cs",
+              "RelativeToolTip": "CsvService.Api\\Services\\CsvParserService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:28:51.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CsvService.Api\\Program.cs",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\Program.cs",
+              "RelativeToolTip": "CsvService.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:23:19.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvController.cs",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\Controllers\\CsvController.cs",
+              "RelativeDocumentMoniker": "CsvService.Api\\Controllers\\CsvController.cs",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\Controllers\\CsvController.cs",
+              "RelativeToolTip": "CsvService.Api\\Controllers\\CsvController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowCAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:36:46.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CsvService.Api",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\CsvService.Api.csproj",
+              "RelativeDocumentMoniker": "CsvService.Api\\CsvService.Api.csproj",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\CsvService.Api.csproj",
+              "RelativeToolTip": "CsvService.Api\\CsvService.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T19:23:47.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "inventory.proto",
+              "DocumentMoniker": "D:\\Booking System\\CsvService\\CsvService.Api\\Protos\\inventory.proto",
+              "RelativeDocumentMoniker": "CsvService.Api\\Protos\\inventory.proto",
+              "ToolTip": "D:\\Booking System\\CsvService\\CsvService.Api\\Protos\\inventory.proto",
+              "RelativeToolTip": "CsvService.Api\\Protos\\inventory.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-02-20T19:23:42.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

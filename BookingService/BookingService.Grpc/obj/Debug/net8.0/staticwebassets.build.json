@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XxaW9yAvNaacgIklW51tMfq4p+4M0/Ax+5T0Tq6MgME=",
+  "Source": "BookingService.Grpc",
+  "BasePath": "_content/BookingService.Grpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option csharp_namespace = "BookingService.Grpc";
+
+package booking;
+
+service BookingService {
+  rpc CreateBooking (CreateBookingRequest) returns (BookingResponse);
+}
+
+message CreateBookingRequest {
+  int32 memberId = 1;
+  int32 inventoryItemId = 2;
+}
+
+message BookingResponse {
+  int32 id = 1;
+  int32 memberId = 2;
+  int32 inventoryItemId = 3;
+  string bookingReference = 4;
+  string bookingDateTime = 5;
+  bool isCancelled = 6;
+}
