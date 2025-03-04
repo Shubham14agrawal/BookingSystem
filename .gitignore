@@ -1,27 +1,5 @@
 ﻿/.vs
 *.vsidx
 
-# Ignore all .vs folders except for InventoryService
-.vs/
 
-
-# Ignore all bin and obj folders except for InventoryService.Api
-**/bin/
-**/obj/
-!InventoryService/InventoryService.Api/bin/
-!InventoryService/InventoryService.Api/obj/
-/InventoryService/.vs/
-/InventoryService/InventoryService.Api/obj/Debug/net8.0/ref/InventoryService.Api.dll
-# Ignore all bin and obj folders
-**/bin/
-**/obj/
-/InventoryService/InventoryService.Api/bin/Debug/net8.0/InventoryService.Api.deps.json
-/BookingService/.vs/BookingService/v17/.suo
-/BookingService/.vs/BookingService/v17/DocumentLayout.json
-/BookingService/BookingService.Api/bin/Debug/net8.0/BookingService.Api.deps.json
-/BookingService/BookingService.Api/bin/Debug/net8.0/BookingService.Api.dll
-/BookingService/BookingService.Api/bin/Debug/net8.0/BookingService.Api.exe
-/BookingService/BookingService.Api/obj/Debug/net8.0/ref/BookingService.Api.dll
-/BookingService/BookingService.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.BookingService.Api.props
-/BookingService/BookingService.Api/obj/Debug/net8.0/refint/BookingService.Api.dll
-/BookingService/BookingService.Api/obj/Debug/net8.0/apphost.exe
+/BookingService/.vs/BookingService/FileContentIndex/00fb94e1-6848-47c4-b66b-c48ce603f45c.vsidx
