@@ -1,5 +1,4 @@
-﻿/.vs
-*.vsidx
-
-
-/BookingService/.vs/BookingService/FileContentIndex/00fb94e1-6848-47c4-b66b-c48ce603f45c.vsidx
+﻿
+# Ignore all bin and obj folders except InventoryService.Api/bin
+**/bin/
+**/obj/
